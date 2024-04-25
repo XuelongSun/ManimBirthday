@@ -1,6 +1,10 @@
 ### Animations made by [Manim](https://github.com/ManimCommunity/manim) as a birthday gift for my wife
 
+![](https://img.shields.io/badge/Python-3.9.0-%233776AB?logo=python) ![](https://img.shields.io/badge/manim_community-0.18.0-orange) ![](https://img.shields.io/badge/pymunk-6.5.2-green)
+
 #### Video
+![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1bp421D7LW&query=data.stat.view&label=Bilibili&color=ff69b4)
+
 Edit with Adobe Premiere, add some interesting sound effects. 
 See the full video on [Bilibili](https://www.bilibili.com/video/BV1bp421D7LW).
 
@@ -17,6 +21,7 @@ See the full video on [Bilibili](https://www.bilibili.com/video/BV1bp421D7LW).
 <div align="center">
   <img src="https://github.com/XuelongSun/ManimBirthday/blob/main/media/physics.gif" width=60% align="center">
 </div>
+
 #### Files
 - models.py: some useful classes for computations
 - birthday.py: the main scene of the animation
@@ -30,6 +35,6 @@ manim -qh --fps 60 --disable_caching birthday.py MainScene -o birdthday.mp4
 ```
 this will generate the video.
 
-You can customize the animation by change the code in the `birthday.py`. 
+You can customize the animation by change the code in `birthday.py`. 
 
 Have Fun!
