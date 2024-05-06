@@ -1,9 +1,16 @@
-### Animations made by [Manim](https://github.com/ManimCommunity/manim) as a birthday gift for my wife
+<div align='center'>
+  
+<h3> Animations made by ManimCE as a birthday gift for my wife </h3>
+
 
 ![](https://img.shields.io/badge/Python-3.9.0-%233776AB?logo=python) ![](https://img.shields.io/badge/manim_community-0.18.0-orange) ![](https://img.shields.io/badge/pymunk-6.5.2-green)
 
+</div>
+
+---
+
 #### Video
-![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1bp421D7LW&query=data.stat.view&label=Bilibili&color=ff69b4)
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1bp421D7LW&query=data.stat.view&label=Bilibili&color=ff69b4)](https://www.bilibili.com/video/BV1bp421D7LW)
 
 Edit with Adobe Premiere, add some interesting sound effects. 
 See the full video on [Bilibili](https://www.bilibili.com/video/BV1bp421D7LW).
